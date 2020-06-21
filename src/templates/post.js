@@ -16,7 +16,7 @@ const Post = ({ data }) => {
   const defaultImage = useDefaultImage();
 
   let disqusConfig = {
-    url: `http://localhost:8000//blog/${data.post.id}`,
+    url: `https://skowyrny-second-test-blog.netlify.app/blog/${data.post.id}`,
     identifier: data.post.id,
     title: data.post.title,
   };
