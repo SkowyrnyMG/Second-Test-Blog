@@ -1,3 +1,12 @@
+# This is my first complete blog setup.
+
+To build my blog app I've used GatsbyJS.
+For my database I have chosen DatoCMS, which works perfectly with Gatsby.
+
+You can find additional JAMstack features as Aloglia Search or DISQUS Comment section.
+
+I did not pay much attention to write reusable clean code - you can notice it baddly on many CSS styles, where I've just used @emotion css to write everyting from hand on tag marks in JSX.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
